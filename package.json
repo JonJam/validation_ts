@@ -1,0 +1,17 @@
+{
+  "name": "validation_ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JonJam/validation_ts.git",
+  "license": "MIT",
+  "dependencies": {
+    "class-validator": "^0.7.3"
+  },
+  "devDependencies": {
+    "ts-node": "^3.3.0",
+    "typescript": "^2.6.1"
+  },
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  }
+}
